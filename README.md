@@ -1,39 +1,69 @@
-Alhassane Samassekou
-
-Full-Stack AI Engineer & Security Researcher
-
-Building at the intersection of AI Reliability and Developer Experience. I specialize in creating local-first tools that secure the AI agent lifecycle and optimize software delivery.
-
-🛰️ Featured Projects
-
-ship-safe: A security-focused CLI tool for AI agents. It features secret detection, prompt injection mitigation, and configuration auditing.
-
-GitSkins: Automated README generation powered by Gemini.
-
-Resumatch-ai: AI-driven recruitment optimization engine.
-
-Multi-modal Vector Search: A CLIP-powered engine built for fashion cataloging and visual search.
-
-🛡️ Technical Expertise
-
-AI Security: LLM Hallucination mitigation, Prompt Injection defense, and Agent Lifecycle security.
-
-Infrastructure: Zero Trust Architecture (ZTA), ICS/OT Security, and High Availability systems.
-
-The Stack: Python, TypeScript, Medusa.js, Next.js, and Vector Databases.
-
-📈 Current Focus
-
-Building: Scaling ship-safe for production-grade AI agent deployments.
-
-Researching: Investigating Industrial Control Systems (ICS) security and hardware-level AI safety.
-
-Strategy: Sharing my journey via the "Build in Public" methodology.
-
-📫 Connect with Me
-
-X (Twitter) | LinkedIn | Personal Website
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Alhassane%20Samassekou;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dasamassekou10%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue" alt="Alhassane's GitHub Stats" />
+  <img src="https://avatars.githubusercontent.com/u/208567150?u=59ecfe5927fff896469d68f97e6d519ea1c09f31&v=4" width="150" style="border-radius: 50%;" alt="Alhassane Samassekou" />
 </p>
+
+## 👨‍💻 About Me
+
+Full-Stack AI Engineer | Founder of ship-safe 🛡️
+
+Building local-first, open-source security tools for the AI agent lifecycle. Focused on Zero Trust and LLM
+
+- 📍 Based in **Houston**
+- 🏢 Working at **Other**
+- 🌐 Check out my [website](https://www.shipsafecli.com)
+- 👥 **18** followers · **12** following
+
+## 🛠️ Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://gitskins.com/api/premium-card?username=asamassekou10&theme=zen" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://gitskins.com/api/languages?username=asamassekou10&theme=zen" alt="Top Languages" />
+</p>
+
+## 🚀 Featured Projects
+
+### [ship-safe](https://github.com/asamassekou10/ship-safe) `JavaScript`
+CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.
+⭐ 390 | 🍴 43
+
+### [resumatch-ai](https://github.com/asamassekou10/resumatch-ai) `JavaScript`
+AI Resume Optimizer
+⭐ 6 | 🍴 0
+
+### [-X-Cleaner-Extension](https://github.com/asamassekou10/-X-Cleaner-Extension) `TypeScript`
+A professional Chrome extension to automatically delete tweets and undo reposts on X (formerly Twitter).
+⭐ 3 | 🍴 0
+
+### [GitSkins](https://github.com/asamassekou10/GitSkins) `TypeScript`
+AI-powered GitHub profile tools — READMEs, widgets, year-in-review, and portfolio — powered by Google Gemini
+⭐ 2 | 🍴 0
+
+### [Portfolio](https://github.com/asamassekou10/Portfolio) `TypeScript`
+No description provided
+⭐ 0 | 🍴 0
+
+### [Vector-Search](https://github.com/asamassekou10/Vector-Search) `Jupyter Notebook`
+A multi-modal search engine using CLIP and a vector database to power both text-to-image and image-to-image search across a 44,000-item fashion catalog.
+⭐ 2 | 🍴 0
+
+
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asamassekou10) [![Linkedin]([https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white](https://linkedin.com/in/asamassekou))](https://www.shipsafecli.com)[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asamassekou10) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.shipsafecli.com)
+
+---
+
+<p align="center">Profile README generated with <a href="https://gitskins.com/readme-generator">GitSkins</a></p>
