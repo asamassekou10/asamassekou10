@@ -10,7 +10,9 @@
 
 Full-Stack AI Engineer | Founder of ship-safe 🛡️
 
-Building local-first, open-source security tools for the AI agent lifecycle. Focused on Zero Trust and LLM
+
+
+Building local-first, open-source security tools for the AI agent lifecycle. Focused on Zero Trust and 
 
 - 📍 Based in **Houston**
 - 🏢 Working at **Other**
@@ -25,11 +27,11 @@ Building local-first, open-source security tools for the AI agent lifecycle. Foc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gitskins.com/api/premium-card?username=asamassekou10&theme=zen" alt="GitHub Stats" />
+  <img src="https://gitskins.com/api/premium-card?username=asamassekou10&theme=github-dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://gitskins.com/api/languages?username=asamassekou10&theme=zen" alt="Top Languages" />
+  <img src="https://gitskins.com/api/languages?username=asamassekou10&theme=github-dark" alt="Top Languages" />
 </p>
 
 ## 🚀 Featured Projects
@@ -62,7 +64,7 @@ A multi-modal search engine using CLIP and a vector database to power both text-
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asamassekou10) [![Linkedin]([https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white](https://linkedin.com/in/asamassekou))](https://www.shipsafecli.com)[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asamassekou10) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.shipsafecli.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asamassekou10) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asamassekou10) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.shipsafecli.com)
 
 ---
 
