@@ -1,11 +1,3 @@
-# asamassekou10
-
-> Recruiter-friendly proof and contact path.
-
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
-## Header
-Hi, I'm **asamassekou10**. This README is tuned for **get hired** with a Neon visual system.
 <p align="center">
   <img src="https://gitskins.com/api/section/hero?username=asamassekou10&theme=neon" alt="asamassekou10 hero section" />
 </p>
