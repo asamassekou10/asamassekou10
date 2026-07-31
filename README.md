@@ -1,56 +1,35 @@
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/hero?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://gitskins.com/api/section/hero?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 hero section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/wordmark?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://gitskins.com/api/section/wordmark?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 3d wordmark section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/portrait?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://gitskins.com/api/section/portrait?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 ascii portrait section" />
-  </picture>
-</p>
+<h3><code>asamassekou10@github ~ $ whoami</code></h3>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/about?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://gitskins.com/api/section/about?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 about section" />
-  </picture>
-</p>
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=asamassekou10&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=asamassekou10&theme=github-dark&style=terminal&mode=dark" width="100%" alt="asamassekou10 portrait" />
+</picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=asamassekou10&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=asamassekou10&theme=github-dark&style=terminal&mode=dark" width="100%" alt="asamassekou10 wordmark" />
+</picture></td>
+</tr>
+</table>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/stack?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://gitskins.com/api/section/stack?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 stack section" />
-  </picture>
-</p>
+<p><b>Full-Stack AI Engineer | Founder of ship-safe. Building local-first, open-source security tools for the AI agent lifecycle.</b></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/stats?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://gitskins.com/api/section/stats?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 stats section" />
-  </picture>
-</p>
+<p><a href="https://github.com/asamassekou10">GitHub</a> &nbsp;·&nbsp; <a href="https://www.gitskins.com">Website</a></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/projects?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://gitskins.com/api/section/projects?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 projects section" />
-  </picture>
-</p>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/social?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&website=gitskins.com&x=asamassekou10&mode=light" />
-    <img src="https://gitskins.com/api/section/social?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&website=gitskins.com&x=asamassekou10" alt="asamassekou10 social section" />
-  </picture>
-</p>
+<div align="center">
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
+<h3><code>asamassekou10@github ~ $ ./contributions.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=github-dark&style=terminal&mode=dark" width="100%" alt="asamassekou10 heatmap" />
+</picture>
+
+</div>
+
+<p align="center"><sub>Alhassane Samassekou · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
