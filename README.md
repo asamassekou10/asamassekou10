@@ -67,13 +67,6 @@ The contribution graph is part of the profile experience. It refreshes automatic
   <img src="https://raw.githubusercontent.com/asamassekou10/asamassekou10/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
 </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/chess?username=asamassekou10&theme=aurora" width="100%" alt="Automatic chess replay decoration" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/portrait?username=asamassekou10&theme=aurora" width="100%" alt="Animated ASCII portrait for Alhassane Samassekou" />
-</p>
 
 ## Current focus
 
