@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+  <title id="title">Build boldly. Test adversarially. Ship safely.</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#31d7ff"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+  <rect width="1200" height="120" rx="24" fill="#050816"/>
+  <path d="M70 60H330l24-25 36 50 28-25h712" fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1200" stroke-dashoffset="1200">
+    <animate attributeName="stroke-dashoffset" values="1200;0;0" keyTimes="0;.65;1" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <rect x="350" y="30" width="500" height="60" rx="18" fill="#050816" opacity=".96"/>
+  <text x="600" y="68" text-anchor="middle" fill="#e6fbff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="21" font-weight="700" letter-spacing="2">BUILD BOLDLY · TEST ADVERSARIALLY · SHIP SAFELY</text>
+</svg>

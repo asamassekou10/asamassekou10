@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">AI security lifecycle</title>
+  <desc id="desc">Generate, attack-test, scan, investigate, and ship safely.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset="1" stop-color="#0b1730"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#31d7ff"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="250" rx="28" fill="url(#bg)"/>
+  <path d="M145 126H1055" stroke="#172a46" stroke-width="4"/>
+  <path d="M145 126H1055" stroke="url(#line)" stroke-width="4" stroke-dasharray="16 18" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-68" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" text-anchor="middle">
+    <g transform="translate(145 126)"><circle r="44" fill="#081426" stroke="#31d7ff" stroke-width="3"/><text y="7" fill="#e6fbff" font-size="24">01</text><text y="76" fill="#31d7ff" font-size="17" font-weight="700">GENERATE</text></g>
+    <g transform="translate(372 126)"><circle r="44" fill="#081426" stroke="#45baf6" stroke-width="3"/><text y="7" fill="#e6fbff" font-size="24">02</text><text y="76" fill="#7dd3fc" font-size="17" font-weight="700">ATTACK-TEST</text></g>
+    <g transform="translate(600 126)"><circle r="44" fill="#081426" stroke="#8b5cf6" stroke-width="3"/><text y="7" fill="#f3e8ff" font-size="24">03</text><text y="76" fill="#a78bfa" font-size="17" font-weight="700">SCAN</text></g>
+    <g transform="translate(828 126)"><circle r="44" fill="#081426" stroke="#5f91b7" stroke-width="3"/><text y="7" fill="#e6fbff" font-size="24">04</text><text y="76" fill="#93c5fd" font-size="17" font-weight="700">INVESTIGATE</text></g>
+    <g transform="translate(1055 126)"><circle r="44" fill="#081426" stroke="#34d399" stroke-width="3"><animate attributeName="r" values="42;47;42" dur="2.4s" repeatCount="indefinite"/></circle><text y="7" fill="#ecfdf5" font-size="24">05</text><text y="76" fill="#34d399" font-size="17" font-weight="700">SHIP SAFELY</text></g>
+  </g>
+</svg>

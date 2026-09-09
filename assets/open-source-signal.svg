@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Alhassane's open-source signal</title>
+  <desc id="desc">Public GitHub snapshot: 891 stars, 22 repositories, 123 forks, and 50 followers. Core languages include TypeScript, JavaScript, Python, HTML, and Jupyter Notebook.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset="1" stop-color="#0b1730"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#31d7ff"/><stop offset=".52" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="350" rx="28" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="347" rx="26.5" fill="none" stroke="#1d3555" stroke-width="3"/>
+  <rect x="52" y="48" width="1096" height="3" rx="2" fill="url(#accent)" filter="url(#glow)">
+    <animate attributeName="opacity" values=".45;1;.45" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="54" y="100" fill="#31d7ff" font-size="17" font-weight="700" letter-spacing="3">PUBLIC GITHUB SNAPSHOT</text>
+    <text x="1148" y="100" fill="#6f86a6" font-size="14" text-anchor="end">SEP 2026</text>
+    <g text-anchor="middle">
+      <g transform="translate(165 178)"><text fill="#f8fafc" font-size="48" font-weight="800">891</text><text y="38" fill="#8fa8c7" font-size="15" letter-spacing="2">STARS</text></g>
+      <g transform="translate(455 178)"><text fill="#f8fafc" font-size="48" font-weight="800">22</text><text y="38" fill="#8fa8c7" font-size="15" letter-spacing="2">REPOSITORIES</text></g>
+      <g transform="translate(745 178)"><text fill="#f8fafc" font-size="48" font-weight="800">123</text><text y="38" fill="#8fa8c7" font-size="15" letter-spacing="2">FORKS</text></g>
+      <g transform="translate(1035 178)"><text fill="#f8fafc" font-size="48" font-weight="800">50</text><text y="38" fill="#8fa8c7" font-size="15" letter-spacing="2">FOLLOWERS</text></g>
+    </g>
+    <g transform="translate(54 276)">
+      <text fill="#6f86a6" font-size="14" letter-spacing="2">CORE LANGUAGES</text>
+      <g transform="translate(190 -19)" font-size="15" font-weight="700">
+        <rect width="160" height="38" rx="19" fill="#10273d" stroke="#31d7ff"/><text x="80" y="25" text-anchor="middle" fill="#baf3ff">TypeScript</text>
+        <rect x="176" width="160" height="38" rx="19" fill="#171f3d" stroke="#8b5cf6"/><text x="256" y="25" text-anchor="middle" fill="#ddd1ff">JavaScript</text>
+        <rect x="352" width="130" height="38" rx="19" fill="#102b2c" stroke="#34d399"/><text x="417" y="25" text-anchor="middle" fill="#bbf7d0">Python</text>
+        <rect x="498" width="110" height="38" rx="19" fill="#171f3d" stroke="#627da3"/><text x="553" y="25" text-anchor="middle" fill="#cbd5e1">HTML</text>
+        <rect x="624" width="238" height="38" rx="19" fill="#10273d" stroke="#31d7ff"/><text x="743" y="25" text-anchor="middle" fill="#baf3ff">Jupyter Notebook</text>
+      </g>
+    </g>
+  </g>
+  <circle cx="1125" cy="48" r="5" fill="#34d399"><animate attributeName="opacity" values="1;.2;1" dur="1.5s" repeatCount="indefinite"/></circle>
+</svg>
