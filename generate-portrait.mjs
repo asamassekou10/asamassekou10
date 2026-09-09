@@ -61,8 +61,9 @@ const timing = [
 // Reserve unchanged cells first so stationary facial details do not wander.
 const cells = lines => lines.flatMap((line,y)=>[...line].flatMap((c,x)=>c===' '?[]:[{x,y,c}]));
 const sequence = [0,1,2,3,2,1,0];
-const times = [0,1.2,2.3,3.6,5.5,6.6,8];
-const loop = 14;
+// A slow, ceremonial gesture: 7.8s up, 3.2s hold, 5s down, 8s idle.
+const times = [0,2.6,5,7.8,11,13.4,16];
+const loop = 24;
 const morphs = [];
 for(let step=0;step<sequence.length-1;step++) {
   const from=cells(frames[sequence[step]]), to=cells(frames[sequence[step+1]]);
@@ -81,11 +82,11 @@ for(let step=0;step<sequence.length-1;step++) {
     const p=a||b,q=b||a;
     if(a && b && p.x===q.x && p.y===q.y) return `<text x="${40+p.x*5}" y="${100+p.y*6.75}">${esc(p.c)}</text>`;
     const coords=(axis,scale,offset)=>`${offset+p[axis]*scale};${offset+p[axis]*scale};${offset+q[axis]*scale};${offset+q[axis]*scale}`;
-    return `<text x="${40+p.x*5}" y="${100+p.y*6.75}">${esc(p.c)}<animate attributeName="x" values="${coords('x',5,40)}" keyTimes="${keys}" begin="7s" dur="14s" repeatCount="indefinite"/><animate attributeName="y" values="${coords('y',6.75,100)}" keyTimes="${keys}" begin="7s" dur="14s" repeatCount="indefinite"/>${!a||!b?`<animate attributeName="opacity" values="${a?'1;1;0;0':'0;0;1;1'}" keyTimes="${keys}" begin="7s" dur="14s" repeatCount="indefinite"/>`:''}</text>`;
+    return `<text x="${40+p.x*5}" y="${100+p.y*6.75}">${esc(p.c)}<animate attributeName="x" values="${coords('x',5,40)}" keyTimes="${keys}" begin="7s" dur="${loop}s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;.4 0 .2 1;0 0 1 1"/><animate attributeName="y" values="${coords('y',6.75,100)}" keyTimes="${keys}" begin="7s" dur="${loop}s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;.4 0 .2 1;0 0 1 1"/>${!a||!b?`<animate attributeName="opacity" values="${a?'1;1;0;0':'0;0;1;1'}" keyTimes="${keys}" begin="7s" dur="${loop}s" repeatCount="indefinite"/>`:''}</text>`;
   }).join('');
-  morphs.push(`<g class="moving-pose" visibility="hidden"><animate attributeName="visibility" values="hidden;visible;hidden;hidden" keyTimes="0;${(start+.001)/loop};${end/loop};1" calcMode="discrete" begin="7s" dur="14s" repeatCount="indefinite"/>${body}</g>`);
+  morphs.push(`<g class="moving-pose" visibility="hidden"><animate attributeName="visibility" values="hidden;visible;hidden;hidden" keyTimes="0;${(start+.001)/loop};${end/loop};1" calcMode="discrete" begin="7s" dur="${loop}s" repeatCount="indefinite"/>${body}</g>`);
 }
-const frameMarkup=`<text class="pose-0">${textFor(frames[0])}<animate attributeName="visibility" values="hidden;visible;visible" keyTimes="0;${8/loop};1" calcMode="discrete" begin="7s" dur="14s" repeatCount="indefinite"/></text>${morphs.join('')}`;
+const frameMarkup=`<text class="pose-0">${textFor(frames[0])}<animate attributeName="visibility" values="hidden;visible;visible" keyTimes="0;${16/loop};1" calcMode="discrete" begin="7s" dur="${loop}s" repeatCount="indefinite"/></text>${morphs.join('')}`;
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="620" height="620" viewBox="0 0 620 620" role="img" aria-labelledby="title desc">
   <title id="title">Animated ASCII portrait of Alhassane Samassekou tipping his graduation cap</title>
