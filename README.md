@@ -1,62 +1,113 @@
-# asamassekou10
+<div align="center">
+  <img src="./assets/ai-security-command-center.png" alt="Cinematic AI security command center with a luminous shield" width="100%" />
+</div>
 
-> Memorable developer positioning.
-
-## Header
-
-Hi, I'm **asamassekou10**. This README shares what I'm building, the tools I use, and the work I'm proud of.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 hero section" />
-  </picture>
-</p>
-## About Me
+<div align="center">
+  <h1>Alhassane Samassekou</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=31D7FF&center=true&vCenter=true&width=720&lines=Full-Stack+AI+Engineer;Founder+of+ship-safe;Securing+the+AI-agent+lifecycle;Building+local-first%2C+open-source+security+tools" alt="Animated introduction" />
+  </a>
+</div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 about section" />
-  </picture>
+  <a href="https://github.com/asamassekou10?tab=followers"><img src="https://img.shields.io/github/followers/asamassekou10?style=for-the-badge&logo=github&label=Follow&color=111827&labelColor=31D7FF" alt="GitHub followers" /></a>
+  <a href="https://github.com/asamassekou10?tab=repositories"><img src="https://img.shields.io/badge/Public_repositories-56-8B5CF6?style=for-the-badge&logo=github" alt="56 public repositories" /></a>
+  <a href="https://www.gitskins.com"><img src="https://img.shields.io/badge/Building-GitSkins-34D399?style=for-the-badge&logo=vercel&logoColor=white" alt="Building GitSkins" /></a>
 </p>
-## Skills
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 stack section" />
-  </picture>
+  I build practical security infrastructure for the new AI software supply chain—tools that help teams test agents, inspect AI-written code, and ship with evidence instead of hope.
 </p>
-## GitHub Stats
+
+---
+
+## The mission
+
+AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
+
+I’m building a local-first security stack that helps developers move from generated code to verified software:
+
+<div align="center">
+  <img src="./assets/security-lifecycle.svg" alt="Generate, attack-test, scan, investigate, and ship safely" width="100%" />
+</div>
+
+## What I’m building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asamassekou10/ship-safe">🛡️ ship-safe</a></h3>
+      <p>The independent security agent for AI-written software. It finds issues, investigates whether they are real, and shows the evidence.</p>
+      <p><strong>Why it matters:</strong> deterministic core, local-first operation, no API key required, and automation-ready JSON and SARIF output.</p>
+      <a href="https://github.com/asamassekou10/ship-safe"><img src="https://img.shields.io/github/stars/asamassekou10/ship-safe?style=flat-square&color=31D7FF" alt="ship-safe stars" /></a>
+      <a href="https://github.com/asamassekou10/ship-safe"><img src="https://img.shields.io/github/last-commit/asamassekou10/ship-safe?style=flat-square&color=34D399" alt="ship-safe last commit" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asamassekou10/AgentChaos">⚡ AgentChaos</a></h3>
+      <p>Safely attack your AI agent before someone else does. A controlled security-testing CLI for adversarial tool responses.</p>
+      <p><strong>Why it matters:</strong> validates trust boundaries, reveals unsafe agent behavior, and makes security failures reproducible.</p>
+      <a href="https://github.com/asamassekou10/AgentChaos"><img src="https://img.shields.io/github/stars/asamassekou10/AgentChaos?style=flat-square&color=8B5CF6" alt="AgentChaos stars" /></a>
+      <a href="https://github.com/asamassekou10/AgentChaos"><img src="https://img.shields.io/github/last-commit/asamassekou10/AgentChaos?style=flat-square&color=34D399" alt="AgentChaos last commit" /></a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/asamassekou10/ship-safe"><b>Try ship-safe</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/asamassekou10/AgentChaos"><b>Attack-test an agent</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.gitskins.com"><b>Explore GitSkins</b></a>
+</div>
+
+## Technology arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,fastapi,postgres,prisma,docker,git,github,linux,vercel&perline=7" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, FastAPI, PostgreSQL, Prisma, Docker, Git, GitHub, Linux, and Vercel" />
+</div>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td><strong>AI systems</strong></td>
+    <td>Agent workflows · evaluation · safety boundaries · grounded generation</td>
+  </tr>
+  <tr>
+    <td><strong>Product engineering</strong></td>
+    <td>TypeScript · Next.js · React · Node.js · Python</td>
+  </tr>
+  <tr>
+    <td><strong>Security tooling</strong></td>
+    <td>Static analysis · adversarial testing · SARIF · CI automation</td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>PostgreSQL · Prisma · Docker · GitHub Actions · Vercel</td>
+  </tr>
+</table>
+
+## Open-source signal
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asamassekou10&show_icons=true&hide_border=true&bg_color=050816&title_color=31D7FF&text_color=C7D2FE&icon_color=34D399&rank_icon=github" alt="Alhassane's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asamassekou10&layout=compact&hide_border=true&bg_color=050816&title_color=31D7FF&text_color=C7D2FE&langs_count=8" alt="Alhassane's most-used public repository languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asamassekou10&bg_color=050816&color=C7D2FE&line=31D7FF&point=34D399&area=true&hide_border=true" alt="Alhassane's contribution activity graph" width="100%" />
+</div>
+
+## Let’s build safer AI software
+
+I’m interested in collaborating with founders, security engineers, AI infrastructure teams, and open-source maintainers working on the hard problems around agent trust and AI-generated code.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 stats section" />
-  </picture>
+  <a href="https://github.com/asamassekou10"><img src="https://img.shields.io/badge/GitHub-Follow_my_work-111827?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
+  <a href="https://www.gitskins.com"><img src="https://img.shields.io/badge/GitSkins-See_what_I’m_building-31D7FF?style=for-the-badge&logo=vercel&logoColor=050816" alt="Visit GitSkins" /></a>
 </p>
-## Projects
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 projects section" />
-  </picture>
-</p>
-## Heatmap
+<div align="center">
+  <img src="./assets/footer-signal.svg" alt="Build boldly. Test adversarially. Ship safely." width="100%" />
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 heatmap section" />
-  </picture>
-</p>
-## Connect
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 social section" />
-  </picture>
-</p>
