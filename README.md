@@ -11,13 +11,17 @@
 
 <p align="center">
   <a href="https://github.com/asamassekou10?tab=followers"><img src="https://img.shields.io/github/followers/asamassekou10?style=for-the-badge&logo=github&label=Follow&color=111827&labelColor=31D7FF" alt="GitHub followers" /></a>
-  <a href="https://github.com/asamassekou10?tab=repositories"><img src="https://img.shields.io/badge/Public_repositories-56-8B5CF6?style=for-the-badge&logo=github" alt="56 public repositories" /></a>
+  <a href="https://github.com/asamassekou10?tab=repositories"><img src="https://img.shields.io/badge/Public_repositories-22-8B5CF6?style=for-the-badge&logo=github" alt="22 public repositories" /></a>
   <a href="https://www.gitskins.com"><img src="https://img.shields.io/badge/Building-GitSkins-34D399?style=for-the-badge&logo=vercel&logoColor=white" alt="Building GitSkins" /></a>
 </p>
 
 <p align="center">
   I build practical security infrastructure for the new AI software supply chain—tools that help teams test agents, inspect AI-written code, and ship with evidence instead of hope.
 </p>
+
+<div align="center">
+  <img src="./assets/ascii-portrait.svg?v=16" alt="Animated ASCII graduation portrait of Alhassane Samassekou tipping his cap" width="460" />
+</div>
 
 ---
 
@@ -90,12 +94,7 @@ I’m building a local-first security stack that helps developers move from gene
 ## Open-source signal
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asamassekou10&show_icons=true&hide_border=true&bg_color=050816&title_color=31D7FF&text_color=C7D2FE&icon_color=34D399&rank_icon=github" alt="Alhassane's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asamassekou10&layout=compact&hide_border=true&bg_color=050816&title_color=31D7FF&text_color=C7D2FE&langs_count=8" alt="Alhassane's most-used public repository languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asamassekou10&bg_color=050816&color=C7D2FE&line=31D7FF&point=34D399&area=true&hide_border=true" alt="Alhassane's contribution activity graph" width="100%" />
+  <img src="./assets/open-source-signal.svg" alt="Open-source signal: 891 stars, 22 repositories, 123 forks, and 50 followers" width="100%" />
 </div>
 
 ## Let’s build safer AI software
@@ -110,4 +109,3 @@ I’m interested in collaborating with founders, security engineers, AI infrastr
 <div align="center">
   <img src="./assets/footer-signal.svg" alt="Build boldly. Test adversarially. Ship safely." width="100%" />
 </div>
-
