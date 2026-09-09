@@ -61,9 +61,9 @@ const timing = [
 // Reserve unchanged cells first so stationary facial details do not wander.
 const cells = lines => lines.flatMap((line,y)=>[...line].flatMap((c,x)=>c===' '?[]:[{x,y,c}]));
 const sequence = [0,1,2,3,2,1,0];
-// Five full seconds for every pose-to-pose morph, followed by a 10s idle rest.
-const times = [0,5,10,15,20,25,30];
-const loop = 40;
+// A gentle 4.5s pose-to-pose morph, followed by a 10s idle rest.
+const times = [0,4.5,9,13.5,18,22.5,27];
+const loop = 37;
 const morphs = [];
 for(let step=0;step<sequence.length-1;step++) {
   const from=cells(frames[sequence[step]]), to=cells(frames[sequence[step+1]]);
@@ -86,7 +86,7 @@ for(let step=0;step<sequence.length-1;step++) {
   }).join('');
   morphs.push(`<g class="moving-pose" visibility="hidden"><animate attributeName="visibility" values="hidden;visible;hidden;hidden" keyTimes="0;${(start+.001)/loop};${end/loop};1" calcMode="discrete" begin="7s" dur="${loop}s" repeatCount="indefinite"/>${body}</g>`);
 }
-const frameMarkup=`<text class="pose-0">${textFor(frames[0])}<animate attributeName="visibility" values="hidden;visible;visible" keyTimes="0;${30/loop};1" calcMode="discrete" begin="7s" dur="${loop}s" repeatCount="indefinite"/></text>${morphs.join('')}`;
+const frameMarkup=`<text class="pose-0">${textFor(frames[0])}<animate attributeName="visibility" values="hidden;visible;visible" keyTimes="0;${27/loop};1" calcMode="discrete" begin="7s" dur="${loop}s" repeatCount="indefinite"/></text>${morphs.join('')}`;
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="620" height="620" viewBox="0 0 620 620" role="img" aria-labelledby="title desc">
   <title id="title">Animated ASCII portrait of Alhassane Samassekou tipping his graduation cap</title>

@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <img src="./assets/ascii-portrait.svg?v=18" alt="Animated ASCII graduation portrait of Alhassane Samassekou tipping his cap" width="460" />
+  <img src="./assets/ascii-portrait.svg?v=19" alt="Animated ASCII graduation portrait of Alhassane Samassekou tipping his cap" width="460" />
 </div>
 
 ---
