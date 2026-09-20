@@ -1,111 +1,120 @@
 <div align="center">
-  <img src="./assets/ai-security-command-center.png" alt="Cinematic AI security command center with a luminous shield" width="100%" />
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · asamassekou10</sub></p>
+<h1>Alhassane Samassekou</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Full-Stack AI Engineer | Founder of ship-safe 
+
+Building local-first, open-source security tools for the AI agent lifecycle.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Houston · Building at Other</sub></p>
+<p><a href="https://github.com/asamassekou10">GitHub</a> &nbsp;·&nbsp; <a href="https://www.shipsafe.sh">Website</a> &nbsp;·&nbsp; <a href="https://x.com/asamassekou10">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Alhassane Samassekou animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
 </div>
 
-<div align="center">
-  <h1>Alhassane Samassekou</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=31D7FF&center=true&vCenter=true&width=720&lines=Full-Stack+AI+Engineer;Founder+of+ship-safe;Securing+the+AI-agent+lifecycle;Building+local-first%2C+open-source+security+tools" alt="Animated introduction" />
-  </a>
-</div>
+<h2>What teams can evaluate quickly</h2>
 
-<p align="center">
-  <a href="https://github.com/asamassekou10?tab=followers"><img src="https://img.shields.io/github/followers/asamassekou10?style=for-the-badge&logo=github&label=Follow&color=111827&labelColor=31D7FF" alt="GitHub followers" /></a>
-  <a href="https://github.com/asamassekou10?tab=repositories"><img src="https://img.shields.io/badge/Public_repositories-22-8B5CF6?style=for-the-badge&logo=github" alt="22 public repositories" /></a>
-  <a href="https://www.gitskins.com"><img src="https://img.shields.io/badge/Building-GitSkins-34D399?style=for-the-badge&logo=vercel&logoColor=white" alt="Building GitSkins" /></a>
-</p>
-
-<p align="center">
-  I build practical security infrastructure for the new AI software supply chain—tools that help teams test agents, inspect AI-written code, and ship with evidence instead of hope.
-</p>
-
-<div align="center">
-  <img src="./assets/ascii-portrait.svg?v=19" alt="Animated ASCII graduation portrait of Alhassane Samassekou tipping his cap" width="460" />
-</div>
-
----
-
-## The mission
-
-AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
-
-I’m building a local-first security stack that helps developers move from generated code to verified software:
-
-<div align="center">
-  <img src="./assets/security-lifecycle.svg" alt="Generate, attack-test, scan, investigate, and ship safely" width="100%" />
-</div>
-
-## What I’m building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asamassekou10/ship-safe">🛡️ ship-safe</a></h3>
-      <p>The independent security agent for AI-written software. It finds issues, investigates whether they are real, and shows the evidence.</p>
-      <p><strong>Why it matters:</strong> deterministic core, local-first operation, no API key required, and automation-ready JSON and SARIF output.</p>
-      <a href="https://github.com/asamassekou10/ship-safe"><img src="https://img.shields.io/github/stars/asamassekou10/ship-safe?style=flat-square&color=31D7FF" alt="ship-safe stars" /></a>
-      <a href="https://github.com/asamassekou10/ship-safe"><img src="https://img.shields.io/github/last-commit/asamassekou10/ship-safe?style=flat-square&color=34D399" alt="ship-safe last commit" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asamassekou10/AgentChaos">⚡ AgentChaos</a></h3>
-      <p>Safely attack your AI agent before someone else does. A controlled security-testing CLI for adversarial tool responses.</p>
-      <p><strong>Why it matters:</strong> validates trust boundaries, reveals unsafe agent behavior, and makes security failures reproducible.</p>
-      <a href="https://github.com/asamassekou10/AgentChaos"><img src="https://img.shields.io/github/stars/asamassekou10/AgentChaos?style=flat-square&color=8B5CF6" alt="AgentChaos stars" /></a>
-      <a href="https://github.com/asamassekou10/AgentChaos"><img src="https://img.shields.io/github/last-commit/asamassekou10/AgentChaos?style=flat-square&color=34D399" alt="AgentChaos last commit" /></a>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · TypeScript · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>58 repositories · 890 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>3,409 contributions · 273 active days</p></td>
+</tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/asamassekou10/ship-safe"><b>Try ship-safe</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/asamassekou10/AgentChaos"><b>Attack-test an agent</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://www.gitskins.com"><b>Explore GitSkins</b></a>
-</div>
+<p><sub>Full-Stack AI Engineer | Founder of ship-safe 
 
-## Technology arsenal
+Building local-first, open-source security tools for the AI agent lifecycle.</sub></p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,fastapi,postgres,prisma,docker,git,github,linux,vercel&perline=7" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, FastAPI, PostgreSQL, Prisma, Docker, Git, GitHub, Linux, and Vercel" />
-</div>
+<h2>Proof at a glance</h2>
 
-<br />
-
-<table align="center">
-  <tr>
-    <td><strong>AI systems</strong></td>
-    <td>Agent workflows · evaluation · safety boundaries · grounded generation</td>
-  </tr>
-  <tr>
-    <td><strong>Product engineering</strong></td>
-    <td>TypeScript · Next.js · React · Node.js · Python</td>
-  </tr>
-  <tr>
-    <td><strong>Security tooling</strong></td>
-    <td>Static analysis · adversarial testing · SARIF · CI automation</td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>PostgreSQL · Prisma · Docker · GitHub Actions · Vercel</td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>58</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>890</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>3,409</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>51</strong><br /><sub>Followers</sub></td>
+</tr>
 </table>
 
-## Open-source signal
-
-<div align="center">
-  <img src="./assets/open-source-signal.svg" alt="Open-source signal: 891 stars, 22 repositories, 123 forks, and 50 followers" width="100%" />
-</div>
-
-## Let’s build safer AI software
-
-I’m interested in collaborating with founders, security engineers, AI infrastructure teams, and open-source maintainers working on the hard problems around agent trust and AI-generated code.
-
 <p align="center">
-  <a href="https://github.com/asamassekou10"><img src="https://img.shields.io/badge/GitHub-Follow_my_work-111827?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
-  <a href="https://www.gitskins.com"><img src="https://img.shields.io/badge/GitSkins-See_what_I’m_building-31D7FF?style=for-the-badge&logo=vercel&logoColor=050816" alt="Visit GitSkins" /></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Alhassane Samassekou GitHub proof metrics" />
+</picture>
 </p>
 
-<div align="center">
-  <img src="./assets/footer-signal.svg" alt="Build boldly. Test adversarially. Ship safely." width="100%" />
-</div>
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&repos=asamassekou10%2Fship-safe%2Casamassekou10%2FAgentChaos&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&repos=asamassekou10%2Fship-safe%2Casamassekou10%2FAgentChaos&v=recruiter-projects-1&mode=dark" width="100%" alt="Alhassane Samassekou selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/asamassekou10/ship-safe">ship-safe</a></h3>
+<p>The independent security agent for AI-written software. Finds issues, investigates whether they are real, and shows you the evidence. Deterministic co</p>
+<p><sub>JavaScript · ⭐ 846 · 🍴 113</sub></p>
+<p><a href="https://github.com/asamassekou10/ship-safe">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/asamassekou10/AgentChaos">AgentChaos</a></h3><p>Safely attack your AI agent before someone else does. Local-first security testing CLI that injects controlled attacks into agent tool responses and v</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Alhassane Samassekou technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>37% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>16% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>7% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Alhassane Samassekou contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/asamassekou10">GitHub</a><br /><a href="https://www.shipsafe.sh">Website</a><br /><a href="https://x.com/asamassekou10">X</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Alhassane Samassekou · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
