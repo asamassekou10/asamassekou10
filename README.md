@@ -14,9 +14,9 @@ Building local-first, open-source security tools for the AI agent lifecycle.</p>
 <table width="100%">
 <tr>
 <td width="25%" align="center"><strong>58</strong><br /><sub>Followers</sub></td>
-<td width="25%" align="center"><strong>58</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>905</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>3,589</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>59</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>906</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>3,633</strong><br /><sub>Contributions</sub></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ Building local-first, open-source security tools for the AI agent lifecycle.</p>
 <h2>What I’m shipping</h2>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=asamassekou10&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&items=Jupyter%20Notebook%3A%3A58%20public%20repositories%7Cship-safe%3A%3AThe%20independent%20security%20agent%20for%20AI-written%20%7CImpact%3A%3A905%20stars%20%C2%B7%20284%20active%20days" width="100%" alt="Highlights" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=asamassekou10&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&items=Jupyter%20Notebook%3A%3A59%20public%20repositories%7Cship-safe%3A%3AThe%20independent%20security%20agent%20for%20AI-written%20%7CImpact%3A%3A906%20stars%20%C2%B7%20283%20active%20days" width="100%" alt="Highlights" />
 </p>
 
 <h2>Featured work</h2>
@@ -56,7 +56,7 @@ Building local-first, open-source security tools for the AI agent lifecycle.</p>
 <td width="42%" valign="top">
 <h3><a href="https://github.com/asamassekou10/ship-safe"><strong>ship-safe</strong></a></h3>
 <p>The independent security agent for AI-written software. Finds issues, investigates whether they are real, and shows you the evidence. Deterministic co</p>
-<p><sub>JavaScript · ⭐ 855 stars · 111 forks</sub></p>
+<p><sub>JavaScript · ⭐ 856 stars · 112 forks</sub></p>
 <p><a href="https://github.com/asamassekou10/ship-safe">View project →</a></p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ Building local-first, open-source security tools for the AI agent lifecycle.</p>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/asamassekou10/ship-safe"><strong>ship-safe</strong></a></h3>
 <p>The independent security agent for AI-written software. Finds issues, investigates whether they are real, and shows you the evidence. Deterministic co</p>
-<p><sub>JavaScript · ⭐ 855</sub></p>
+<p><sub>JavaScript · ⭐ 856</sub></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/asamassekou10/AgentChaos"><strong>AgentChaos</strong></a></h3>
@@ -82,7 +82,7 @@ Building local-first, open-source security tools for the AI agent lifecycle.</p>
 <h2>Signal</h2>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4" width="100%" alt="905 stars across 58 repositories" />
+  <img src="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4" width="100%" alt="906 stars across 59 repositories" />
 </p>
 
 <h2>Stack</h2>
@@ -96,7 +96,7 @@ Building local-first, open-source security tools for the AI agent lifecycle.</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&mode=dark" width="100%" alt="3589 contributions in the last year" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208567150%3Fu%3D88c23c8aa7859d2d5aeff9ee1c880a052426fcd7%26v%3D4&mode=dark" width="100%" alt="3633 contributions in the last year" />
   </picture>
 </p>
 
